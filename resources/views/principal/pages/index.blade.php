@@ -22,8 +22,8 @@
                         <div class="row">
                             <div class="col-xl-8 col-lg-9 col-md-11 col-sm-10">
                                 <div class="hero__caption">
-                                    <span data-animation="fadeInUp" data-delay="0.2s">with patrick potter</span>
-                                    <h1 data-animation="fadeInUp" data-delay="0.5s">Our Hair Style make your look elegance</h1>
+                                    <span data-animation="fadeInUp" data-delay="0.2s">Ache um barbeiro perto de você</span>
+                                    <h1 data-animation="fadeInUp" data-delay="0.5s">Bem vindo, encontre o melhor barbeiro para você</h1>
                                 </div>
                             </div>
                         </div>
@@ -35,8 +35,8 @@
                         <div class="row">
                             <div class="col-xl-8 col-lg-9 col-md-11 col-sm-10">
                                 <div class="hero__caption">
-                                    <span data-animation="fadeInUp" data-delay="0.2s">with patrick potter</span>
-                                    <h1 data-animation="fadeInUp" data-delay="0.5s">Our Hair Style make your look elegance</h1>
+                                    <span data-animation="fadeInUp" data-delay="0.2s">Profissionais qualificados</span>
+                                    <h1 data-animation="fadeInUp" data-delay="0.5s">Nosso proposito é te ajudar a ficar sempre com um visual elegante</h1>
                                 </div>
                             </div>
                         </div>
