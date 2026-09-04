@@ -45,8 +45,8 @@
             </div>
             <!-- stroke Text -->
             <div class="stock-text">
-                <h2>Get More confident</h2>
-                <h2>Get More confident</h2>
+                <h2>Cadastre-se e encontre um barbeiro</h2>
+                <h2>Cadastre-se e encontre um barbeiro</h2>
             </div>
              <!-- Arrow -->
              <div class="thumb-content-box">
@@ -72,10 +72,10 @@
                             <!-- Section Tittle -->
                             <div class="section-tittle section-tittle3 mb-35">
                                 <span>About Our company</span>
-                                <h2>52 Years Of Experience In Hair cut!</h2>
+                                <h2>Não se desespere na hora de se arrumar!</h2>
                             </div>
-                            <p class="mb-30 pera-bottom">Brook presents your services with flexible, convenient and cdpoe layouts. You can select your favorite layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfreplication of the designers is intended.</p>
-                            <p class="pera-top mb-50">Brook presents your services with flexible, convefnient and ent anipurpose layouts. You can select your favorite.</p>
+                            <p class="mb-30 pera-bottom">Somos um sistema de agendamento de serviços de beleza.</p>
+                            <p class="pera-top mb-50">Encontre profissionais na sua região, busque profissionais naquelas horas em que voce está longe do seu barbeiro favorito para que possa sempre estar sempre elegante.</p>
                             <img src="assets/img/gallery/signature.png" alt="">
                         </div>
                     </div>
@@ -94,8 +94,8 @@
                 <div class="row d-flex justify-content-center">
                     <div class="col-xl-7 col-lg-8 col-md-11 col-sm-11">
                         <div class="section-tittle text-center mb-90">
-                            <span>Professional Services</span>
-                            <h2>Our Best services that  we offering to you</h2>
+                            <span>Serviços</span>
+                            <h2>Serviços que nossa plataforma oferece</h2>
                         </div>
                     </div>
                 </div>
@@ -107,8 +107,8 @@
                                 <i class="flaticon-healthcare-and-medical"></i>
                             </div> 
                             <div class="service-cap">
-                                <h4><a href="#">Stylish Hair Cut</a></h4>
-                                <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+                                <h4><a href="#">Corte</a></h4>
+                                <p>Profissionais qualificados para seu proximo corte de cabelo.</p>
                             </div>
                         </div>
                     </div>
@@ -118,8 +118,8 @@
                                 <i class="flaticon-fitness"></i>
                             </div> 
                             <div class="service-cap">
-                                <h4><a href="#">Body Massege</a></h4>
-                                <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+                                <h4><a href="#">Barba</a></h4>
+                                <p>Profissionais especializados em design de barba.</p>
                             </div>
                         </div>
                     </div> 
@@ -129,8 +129,8 @@
                                 <i class="flaticon-clock"></i>
                             </div> 
                             <div class="service-cap">
-                                <h4><a href="#">Breard Style</a></h4>
-                                <p>Sorem spsum dolor sit amsectetur adipisclit, seddo eiusmod tempor incididunt ut laborea.</p>
+                                <h4><a href="#">Corte e Barba</a></h4>
+                                <p>Profissionais qualificados para seu proximo corte de cabelo e design de barba.</p>
                             </div>
                         </div>
                     </div>
@@ -145,8 +145,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-8 col-lg-8 col-md-11 col-sm-11">
                         <div class="section-tittle text-center mb-100">
-                            <span>Professional Teams</span>
-                            <h2>Our award winner hair cut exparts for you</h2>
+                            <span>Alguns de nossos profissionais</span>
+                            <h2>Entre em contato</h2>
                         </div>
                     </div>
                 </div>
