@@ -75,7 +75,7 @@
                                 <h2>Não se desespere na hora de se arrumar!</h2>
                             </div>
                             <p class="mb-30 pera-bottom">Somos um sistema de agendamento de serviços de beleza.</p>
-                            <p class="pera-top mb-50">Encontre profissionais na sua região, busque profissionais naquelas horas em que voce está longe do seu barbeiro favorito para que possa sempre estar sempre elegante.</p>
+                            <p class="pera-top mb-50">Encontre profissionais na sua região, pensado naquelas horas em que voce está longe do seu barbeiro favorito para que possa sempre estar sempre elegante.</p>
                             <img src="assets/img/gallery/signature.png" alt="">
                         </div>
                     </div>
@@ -104,7 +104,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services-caption text-center mb-30">
                             <div class="service-icon">
-                                <i class="flaticon-healthcare-and-medical"></i>
+                                <i class="fa-solid fa-scissors"></i>
                             </div> 
                             <div class="service-cap">
                                 <h4><a href="#">Corte</a></h4>
@@ -115,7 +115,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services-caption active text-center mb-30">
                             <div class="service-icon">
-                                <i class="flaticon-fitness"></i>
+                                <i class="fa-regular fa-face-smile"></i>
                             </div> 
                             <div class="service-cap">
                                 <h4><a href="#">Barba</a></h4>
@@ -126,7 +126,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services-caption text-center mb-30">
                             <div class="service-icon">
-                                <i class="flaticon-clock"></i>
+                                <i class="fa-regular fa-hand-peace"></i>
                             </div> 
                             <div class="service-cap">
                                 <h4><a href="#">Corte e Barba</a></h4>
@@ -158,7 +158,8 @@
                                 <img src="assets/img/gallery/team1.png" alt="">
                             </div>
                             <div class="team-caption">
-                                <span>Master Barber</span>
+                                <span>Endereco</span>
+                                <span>Zap</span>
                                 <h3><a href="#">Guy C. Pulido bks</a></h3>
                             </div>
                         </div>
@@ -169,8 +170,9 @@
                                 <img src="assets/img/gallery/team2.png" alt="">
                             </div>
                             <div class="team-caption">
-                                <span>Color Expart</span>
-                                <h3><a href="#">Steve L. Nolan</a></h3>
+                                <span>Endereco</span>
+                                <span>Zap</span>
+                                <h3><a href="#">Guy C. Pulido bks</a></h3>
                             </div>
                         </div>
                     </div>
@@ -180,8 +182,9 @@
                                 <img src="assets/img/gallery/team3.png" alt="">
                             </div>
                             <div class="team-caption">
-                                <span>Master Barber</span>
-                                <h3><a href="#">Edgar P. Mathis</a></h3>
+                                <span>Endereco</span>
+                                <span>Zap</span>
+                                <h3><a href="#">Guy C. Pulido bks</a></h3>
                             </div>
                         </div>
                     </div>
@@ -191,8 +194,9 @@
                                 <img src="assets/img/gallery/team2.png" alt="">
                             </div>
                             <div class="team-caption">
-                                <span>Master Barber</span>
-                                <h3><a href="#">Edgar P. Mathis</a></h3>
+                                <span>Endereco</span>
+                                <span>Zap</span>
+                                <h3><a href="#">Guy C. Pulido bks</a></h3>
                             </div>
                         </div>
                     </div>
@@ -200,94 +204,6 @@
             </div>
         </div>
         <!-- Team End -->
-        <!-- Best Pricing Area Start -->
-        <div class="best-pricing section-padding2 position-relative">
-            <div class="container">
-                <div class="row justify-content-end">
-                    <div class="col-xl-7 col-lg-7">
-                        <div class="section-tittle mb-50">
-                            <span>Our Best Pricing</span>
-                            <h2>We provide best price<br> in the city!</h2>
-                        </div>
-                        <!-- Pricing  -->
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="pricing-list">
-                                    <ul>
-                                        <li>Styling. . . . . . . . . . . . . . . . . . . . . . . . . . . . <span>$25</span></li>
-                                        <li>Styling + Color. . . . . . . . . . . . . . . . . . . <span>$65</span></li>
-                                        <li>Styling + Tint. . . . . . . . . . . . . . . . . . . . . .<span>$65</span></li>
-                                        <li>  Semi-permanent wave. . . . . . . . . . . . .<span>$65</span></li>
-                                        <li> Cut + Styling. . . . . . . . . . . . . . . . . . . . . .<span>$63</span></li>
-                                        <li> Cut + Styling + Color. . . . . . . . . . . . . <span>$100</span></li>
-                                        <li> Cut + Styling + Tint. . . . . . . . . . . . . . . .<span>$100</span></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="pricing-list">
-                                    <ul>
-                                        <li>Cut. . . . . . . . . . . . . . . . . . . . . . . . . . . . .<span>$25</span></li>
-                                        <li>Shave. . . . . . . . . . . . . . . . . . . . . . . . . . <span>$65</span></li>
-                                        <li>Beard trim. . . . . . . . . . . . . . . . . . . . . .  <span>$65</span></li>
-                                        <li>Cut + beard trim. . . . . . . . . . . . . . . . .  <span>$65</span></li>
-                                        <li>Cut + shave. . . . . . . . . . . . . . . . . . . . . . .<span>$63</span></li>
-                                        <li>Clean up. . . . . . . . . . . . . . . . . . . . . . . . .<span>$100</span></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- pricing img -->
-            <div class="pricing-img">
-                <img class="pricing-img1" src="assets/img/gallery/pricing1.png" alt="">
-                <img class="pricing-img2" src="assets/img/gallery/pricing2.png" alt="">
-            </div>
-        </div>
-        <!-- Best Pricing Area End -->
-        <!--? Gallery Area Start -->
-        <div class="gallery-area section-padding30">
-            <div class="container">
-                <!-- Section Tittle -->
-                <div class="row justify-content-center">
-                    <div class="col-xl-6 col-lg-7 col-md-9 col-sm-10">
-                        <div class="section-tittle text-center mb-100">
-                            <span>our image gellary</span>
-                            <h2>some images from our barber shop</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="box snake mb-30">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                            <div class="overlay"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 col-md-6 col-sm-6">
-                        <div class="box snake mb-30">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                            <div class="overlay"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 col-md-6 col-sm-6">
-                        <div class="box snake mb-30">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                            <div class="overlay"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="box snake mb-30">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                            <div class="overlay"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Gallery Area End -->
         <!-- Cut Details Start -->
         <div class="cut-details section-bg section-padding2" data-background="assets/img/gallery/section_bg02.png">
            <div class="container">
@@ -299,7 +215,7 @@
                         </svg>
                     </div>
                     <div class="cut-descriptions">
-                        <p>Vestibulum varius, velit sit amet tempor efficitur, ligula mi lacinia libero, vehicula dui nisi eget purus. Integer cursus nibh non risus maximus dictum. Suspendis.</p>
+                        <p>Melhor barbeiro que ja fui na vida, faz um ótimo corte de cabelo.</p>
                         <span>JONT NICOLIN KOOK</span>
                     </div>
                 </div>
@@ -310,7 +226,7 @@
                         </svg>
                     </div>
                     <div class="cut-descriptions">
-                        <p>Vestibulum varius, velit sit amet tempor efficitur, ligula mi lacinia libero, vehicula dui nisi eget purus. Integer cursus nibh non risus maximus dictum. Suspendis.</p>
+                        <p>Se loko minha barba nunca foi tao bala.</p>
                         <span>JONT NICOLIN KOOK</span>
                     </div>
                 </div>
@@ -321,7 +237,7 @@
                         </svg>
                     </div>
                     <div class="cut-descriptions">
-                        <p>Vestibulum varius, velit sit amet tempor efficitur, ligula mi lacinia libero, vehicula dui nisi eget purus. Integer cursus nibh non risus maximus dictum. Suspendis.</p>
+                        <p>Melhor barbeiro que ja fui na vida, faz um ótimo corte de cabelo.</p>
                         <span>JONT NICOLIN KOOK</span>
                     </div>
                 </div>
@@ -336,8 +252,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-7 col-md-10 col-sm-10">
                         <div class="section-tittle text-center mb-90">
-                            <span>our recent news</span>
-                            <h2>Hipos and tricks from recent blog</h2>
+                            <span>Nossos barbeiros</span>
+                            <h2>Melhores avaliados</h2>
                         </div>
                     </div>
                 </div>
