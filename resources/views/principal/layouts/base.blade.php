@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
+    <meta name="google-signin-client_id" content="{{ config('services.google.client_id') }}">
     <!-- Título -->
     <title></title>
 
@@ -65,6 +65,12 @@
     <!-- Jquery Plugins, main Jquery -->	
     <script src="/js/plugins.js"></script>
     <script src="/js/main.js"></script>
+
+    <!-- JS reutilizavel  -->
+    <script src="/js/service-toggle.js"></script>
+
+    <!-- Biblioteca google -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
 </body>
 
 </html>
