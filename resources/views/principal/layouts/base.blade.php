@@ -68,6 +68,8 @@
 
     <!-- JS reutilizavel  -->
     <script src="/js/service-toggle.js"></script>
+    <script src="/js/cep-lookup.js"></script>
+    <script src="/js/input-mask.js"></script>
 
     <!-- Biblioteca google -->
     <script src="https://apis.google.com/js/platform.js" async defer></script>
